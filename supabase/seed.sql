@@ -1,0 +1,3 @@
+-- Seed data for Mekalin Visual Engine
+-- Competency framework data will be inserted here
+-- TODO: Populate with ID competency framework
